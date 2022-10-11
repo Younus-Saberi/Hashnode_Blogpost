@@ -1,1 +1,229 @@
-IyMgQW5kcm9pZCBKZXRwYWNrIENvbXBvc2UKCiMgSW50cm9kdWN0aW9uCiMjIyMgSmV0cGFjayBDb21wb3NlIGlzIGEgbW9kZXJuIHRvb2xraXQgZm9yIGJ1aWxkaW5nIG5hdGl2ZSBBbmRyb2lkIFVJLgoKQW5kcm9pZCBKZXRwYWNrIENvbXBvc2UgaXMgYSBuZXcgZGVjbGFyYXRpdmUgVUkgdG9vbGtpdCBmb3IgQW5kcm9pZC4gSXQgc2ltcGxpZmllcyBhbmQgYWNjZWxlcmF0ZXMgVUkgZGV2ZWxvcG1lbnQgb24gQW5kcm9pZC4KCkpldHBhY2sgQ29tcG9zZSBpcyBhIG1vZGVybiB0b29sa2l0IGZvciBidWlsZGluZyBuYXRpdmUgQW5kcm9pZCBVSS4gSXQncyBidWlsdCBvbiB0b3Agb2Ygb3VyIG9wZW4tc291cmNlIEh5cGVySW1hZ2UgbGlicmFyeSBhbmQgcHJvdmlkZXMgYWJzdHJhY3Rpb25zIHRoYXQgbWFrZSBpdCBlYXN5IHRvIHdyaXRlIGhpZ2hseSBwZXJmb3JtYW50LCBpbnR1aXRpdmUgdXNlciBpbnRlcmZhY2VzIHVzaW5nIHN0YW5kYXJkIEphdmEgY29tcG9uZW50cyBhbmQgbGF5b3V0cywgd2l0aG91dCBuZWVkaW5nIGFueSBrbm93bGVkZ2Ugb2YgbmF0aXZlIGxpYnJhcmllcyBvciBidWlsZCBwcm9jZXNzZXMuCgoKIyBUaGlzIGxvb2tzIGdyZWF0LCBzbyBob3cgZG8gSSBnZXQgc3RhcnRlZD8KCgohW2dpcGh5ICgxKS5naWZdKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjY1MTQ5ODg0NjUxLzVrUHhHZUc2Sy5naWYgYWxpZ249ImxlZnQiKQoKIyMgU3RlcCAxLiBkb3dubG9hZCBhbmQgaW5zdGFsbCBKZXRwYWNrIENvbXBvc2UKClZpc2l0IFtoZXJlXShodHRwczovL2RldmVsb3Blci5hbmRyb2lkLmNvbS9zdHVkaW8pIHRvIGRvd25sb2FkIGFuZHJvaWQgU3R1ZGlvCgohW2ltYWdlLnBuZ10oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2NjUxNDYwOTc2ODIvamp2c1ZnWHV0LnBuZyBhbGlnbj0ibGVmdCIpCgojIyBTdGVwIDIuIGluc3RhbGwgdGhlIEFuZHJvaWQgU3R1ZGlvIEtvdGxpbiBwbHVnaW4KCkxhdGVyIG9wZW4gdGhlIGFuZHJvaWQgU3R1ZGlvIGFuZCBhZGQgdGhlIGxhdGVzdCBwbHVnaW4gb2YgS290bGluIHRvIHRoZSBhcHBsaWNhdGlvbgoKCiFbaW1hZ2UucG5nXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY2NTE0NjM4ODYwNC91WlhKWmdsbUkucG5nIGFsaWduPSJsZWZ0IikKCiMjIFN0ZXAgMy4gY3JlYXRlIGEgbmV3IEFuZHJvaWQgcHJvamVjdAoKQ2xpY2sgb24gdGhlIE5ldyBwcm9qZWN0IG9wdGlvbiBhbmQgc2VsZWN0IEVtcHR5IEpldHBhY2sgQ29tcG9zZSBBY3Rpdml0eSBhcyBzaG93biBiZWxvdwoKIVtpbWFnZS5wbmddKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjY1MTQ2NTQ4MTYxL0VpTnN3Y05GRy5wbmcgYWxpZ249ImxlZnQiKQoKTGF0ZXIgWW91IGNhbiBuYW1lIHlvdXIgYXBwbGljYXRpb24gYXMgeW91ciBjaG9pY2UgYW5kICBJIHdpbGwgYmUgbmFtZWQgYXMgQ29tcG9zZUNhbXAKCiFbaW1hZ2UucG5nXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY2NTE0NjcxNDQzMC9WNG1Nc1UweVgucG5nIGFsaWduPSJsZWZ0IikKCkNsaWNrIG9uIEZpbmlzaC4gTm90ZSB0aGF0IEl0IGNhbiB0YWtlIDEtMiBtaW51dGVzIHRvIGJ1aWxkIGFsbCBHcmFkbGUgZmlsZXMgCgojIyBTdGVwIDQuIExldCdzIGdldCBpbnRvIE1haW5BY3Rpdml0eS5rdAoKVGhlIEtvdGxpbiBmaWxlIHBhdGggd2lsbCBiZSAKYGBgCmFwcC9zcmMvbWFpbi9qYXZhL2NvbS9leGFtcGxlL2NvbXBvc2VjYW1wL01haW5BY3Rpdml0eS5rdApgYGAKWW91IGNhbiBhZGQgY29kZSB0byB0aGlzIGZpbGUgYW5kIHN0YXJ0IG1ha2luZyBVSXMgd2l0aCB0aGUgSmV0cGFjayBDb21wb3NlCgpBcyB5b3UgY2FuIHNlZSB0aGVyZSBpcyBhbHJlYWR5IGdlbmVyYXRlZCBrb3RsaW4gY29kZSBsZXQgdXMgdW5kZXJzdGFuZCBpdAoKYGBgCkAgQ29tcG9zYWJsZQpwcml2YXRlIGZ1biBHcmVldGluZyhuYW1lOiBTdHJpbmcpIHsKICAgIFRleHQoIHRleHQgPSAiSGVsbG8gJG5hbWUiKQp9CmBgYApDb21wb3NhYmxlIGlzIGEga2V5d29yZCB0byBkZWNsYXJlIGFuZCBpbml0aWFsaXNlIGEgY29tcG9zZSBmdW5jdGlvbiBhbmQgaXQgY29udGFpbnMgYSBUZXh0IGF0dHJpYnV0ZSB3aGljaCBjb250YWlucyAiSGVsbG8gJG5hbWUiLiAKCgoKYGBgCmNsYXNzIE1haW5BY3Rpdml0eSA6IENvbXBvbmVudEFjdGl2aXR5KCkgewogICAgb3ZlcnJpZGUgZnVuIG9uQ3JlYXRlKHNhdmVkSW5zdGFuY2VTdGF0ZTogQnVuZGxlPykgewogICAgICAgIHN1cGVyLm9uQ3JlYXRlKHNhdmVkSW5zdGFuY2VTdGF0ZSkKICAgICAgICBzZXRDb250ZW50IHsKICAgICAgICAgICAgQ29tcG9zZUNhbXBUaGVtZSB7CiAgICAKICAgICAgICAgICAgIEdyZWV0aW5ncygiQW5kcm9pZCIpCgogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQp9CmBgYCAKWW91IGNhbiB1c2UgdGhlIFByZXZpZXcgb3B0aW9uIHRvIHNlZSB0aGUgYXBwbGljYXRpb24gVWkgb24gdGhlIGdvIApIZXJlIGlzIHRoZSBjb2RlIGZvciBpdAoKCmBgYApAUHJldmlldyhzaG93QmFja2dyb3VuZCA9IHRydWUpCkBDb21wb3NhYmxlCmZ1biBEZWZhdWx0UHJldmlldygpIHsKICAgIENvbXBvc2VDYW1wVGhlbWVUaGVtZSB7CiAgICAgICAgR3JlZXRpbmcoIkFuZHJvaWQiKQogICAgfQp9CmBgYCAKd2l0aCB0aGUgRmxvd2luZyBvdXRwdXQgYXMgYmVsb3cKCgohW2ltYWdlLnBuZ10oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2NjUxNDgwNzUyODgvRzdLTDZYUFlqLnBuZyBhbGlnbj0ibGVmdCIpCgpUbyBydW4gYW5kIHRlc3QgdGhlIGFwcGxpY2F0aW9uIHlvdSBjYW4gdXNlIHRoZSBBVkQoQW5kcm9pZCBWaXJ0dWFsIERldmljZSkgRW11bGF0b3IgaW4gdGhlIGFuZHJvaWQgc3R1ZGlvIApwcmVzcwo+c2hpZnQrRjEwCiFbaW1hZ2UucG5nXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY2NTE0ODI1OTMxMS9WMDhXc2l2RlAucG5nIGFsaWduPSJsZWZ0IikKClNlbGVjdCB0aGUgRGV2aWNlIG9uIHdoaWNoIHlvdSB3YW50ZWQgdG8gcnVuIHRoZSBhcHBsaWNhdGlvbiBhbmQgY3JlYXRlIGFuIEFWRCBlbXVsYXRvciBvZiBpdAoKQ29uZ28hISwKSW4gdGhpcyB3YXksIHlvdSBoYXZlIGNyZWF0ZWQgYSBiYXNpYyBhcHBsaWNhdGlvbiBpbiB0aGUgSmV0cGFjayBDb21wb3NlCgojIyBTdGVwIDUuIHN0YXJ0IGJ1aWxkaW5nIHlvdXIgYXBwCgpOb3cgYXMgeW91IGdldCBhbGwgdGhlIGJhc2ljIGtub3dsZWRnZSBvZiB0aGUgamV0cGFjayB0byBjb21wb3NlLgpMZXQncyBnZXQgb3VyIGhhbmRzIGRpcnR5IGFuZCBsZWFybiBhYm91dCBKZXRwYWNrIGNvbXBvc2UgYnkgYnVpbGRpbmcgYSBzaW1wbGUgcHJvamVjdAoKQmVsb3cgaXMgdGhlIHJlcG9zaXRvcnkgd2hpY2ggc2hvd3MgdGhlIEZpbmFsIHByb2plY3QgaW4gdGhlIEpldHBhY2sgY29tcG9zZQoKJVtodHRwczovL2dpdGh1Yi5jb20vWW91bnVzLVNhYmVyaS9Db21wb3NlQ2FtcF0KCgpMZXQgbWFrZSBhbiBhcHAgd2hpY2ggc2hvdyB0aGUgY29udGVudCBvZiB0ZXh0IGluIGEgY2FyZCB2aWV3CkJlbG93IGlzIHRoZSBjb2RlIGZvciBpdAoKYGBgYApAQ29tcG9zYWJsZQpwcml2YXRlIGZ1biBHcmVldGluZyhuYW1lOiBTdHJpbmcpIHsKICAgIENhcmQoCiAgICAgICAgYmFja2dyb3VuZENvbG9yID0gTWF0ZXJpYWxUaGVtZS5jb2xvcnMucHJpbWFyeSwKICAgICAgICBtb2RpZmllciA9IE1vZGlmaWVyLnBhZGRpbmcodmVydGljYWwgPSA0LmRwLCBob3Jpem9udGFsID0gOC5kcCkKICAgICkgewogICAgICAgIENhcmRDb250ZW50KG5hbWUpCiAgICB9Cn0KYGBgYAp3aGVyZSBDYXJkQ29udGVuKG5hbWUpIGlzIGRlZmluZWQgaW4gYW5vdGhlciBmdW5jdGlvbiBhcyBtZW50aW9uZWQgYmVsb3cKCmBgYGAKQENvbXBvc2FibGUKcHJpdmF0ZSBmdW4gQ2FyZENvbnRlbnQobmFtZTogU3RyaW5nKSB7CiAgICB2YXIgZXhwYW5kZWQgYnkgcmVtZW1iZXIgeyBtdXRhYmxlU3RhdGVPZihmYWxzZSkgfQoKICAgIFJvdygKICAgICAgICBtb2RpZmllciA9IE1vZGlmaWVyCiAgICAgICAgICAgIC5wYWRkaW5nKDEyLmRwKQogICAgICAgICAgICAuYW5pbWF0ZUNvbnRlbnRTaXplKAogICAgICAgICAgICAgICAgYW5pbWF0aW9uU3BlYyA9IHNwcmluZygKICAgICAgICAgICAgICAgICAgICBkYW1waW5nUmF0aW8gPSBTcHJpbmcuRGFtcGluZ1JhdGlvTWVkaXVtQm91bmN5LAogICAgICAgICAgICAgICAgICAgIHN0aWZmbmVzcyA9IFNwcmluZy5TdGlmZm5lc3NMb3cKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgKQogICAgKSB7CiAgICAgICAgQ29sdW1uKAogICAgICAgICAgICBtb2RpZmllciA9IE1vZGlmaWVyCiAgICAgICAgICAgICAgICAud2VpZ2h0KDFmKQogICAgICAgICAgICAgICAgLnBhZGRpbmcoMTIuZHApCiAgICAgICAgKSB7CiAgICAgICAgICAgIFRleHQodGV4dCA9ICJIZWxsbywgIikKICAgICAgICAgICAgVGV4dCgKICAgICAgICAgICAgICAgIHRleHQgPSBuYW1lLAogICAgICAgICAgICAgICAgc3R5bGUgPSBNYXRlcmlhbFRoZW1lLnR5cG9ncmFwaHkuaDQuY29weSgKICAgICAgICAgICAgICAgICAgICBmb250V2VpZ2h0ID0gRm9udFdlaWdodC5FeHRyYUJvbGQKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgKQogICAgICAgICAgICBpZiAoZXhwYW5kZWQpIHsKICAgICAgICAgICAgICAgIFRleHQoCiAgICAgICAgICAgICAgICAgICAgdGV4dCA9ICgiQ29tcG9zZW0gaXBzdW0gY29sb3Igc2l0IGxhenksICIgKwogICAgICAgICAgICAgICAgICAgICAgICAgICAgInBhZGRpbmcgdGhlbWUgZWxpdCwgc2VkIGRvIGJvdW5jeS4gIikucmVwZWF0KDQpLAogICAgICAgICAgICAgICAgKQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIEljb25CdXR0b24ob25DbGljayA9IHsgZXhwYW5kZWQgPSAhZXhwYW5kZWQgfSkgewogICAgICAgICAgICBJY29uKAogICAgICAgICAgICAgICAgaW1hZ2VWZWN0b3IgPSBpZiAoZXhwYW5kZWQpIEljb25zLkZpbGxlZC5FeHBhbmRMZXNzIGVsc2UgSWNvbnMuRmlsbGVkLkV4cGFuZE1vcmUsCiAgICAgICAgICAgICAgICBjb250ZW50RGVzY3JpcHRpb24gPSBpZiAoZXhwYW5kZWQpIHsKICAgICAgICAgICAgICAgICAgICBzdHJpbmdSZXNvdXJjZShSLnN0cmluZy5zaG93X2xlc3MpCiAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgIHN0cmluZ1Jlc291cmNlKFIuc3RyaW5nLnNob3dfbW9yZSkKICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICkKICAgICAgICB9CiAgICB9Cn0KCmBgYGAKQWxzbyB0aGUgYSBmdW5jdGlvbiBuYW1lIGdyZWV0aW5ncyB3aWxsIGJlIGdlbmVyYXRlIGEgc3RyaW5nIGFuZCBwdXNoaW5nIGluIHRoZSBVSSB3aGljaCB3aWxsIGJlIGltcGxlbWVudGVkIHVzaW5nICpMYXp5Q2xvdW1uICpzYW1lIGFzICpSZWN5Y2xlclZpZXcgKnVzZWQgaW4gWE1MCgpgYGBgCkBDb21wb3NhYmxlCnByaXZhdGUgZnVuIEdyZWV0aW5ncyhuYW1lczogTGlzdDxTdHJpbmc+ID0gTGlzdCgxMDAwKXsiJGl0In0pIHsKICAgIExhenlDb2x1bW4obW9kaWZpZXIgPSBNb2RpZmllci5wYWRkaW5nKHZlcnRpY2FsID0gNC5kcCkpIHsKICAgICAgICBpdGVtcyhpdGVtcyA9IG5hbWVzKSB7IG5hbWUgLT4KICAgICAgICAgICAgR3JlZXRpbmcobmFtZSA9IG5hbWUpCiAgICAgICAgfQogICAgfQp9CmBgYGAKCkF0IGxhc3Qgc3RhZ2UgYWxsIG9mIHRoZSBmdW5jdGlvbiBhcmUgY29tYmluZWQgYW5kIHVzZWQgIGluIG9uZSBvZiB0aGUgZnVuY3Rpb24gbmFtZWQgYXMgTXlBcHAoKQpCZWxvdyBpcyB0aGUgY29kZSByZWZlcmVuY2UgZm9yIGl0CmBgYGAKY2xhc3MgTWFpbkFjdGl2aXR5IDogQ29tcG9uZW50QWN0aXZpdHkoKSB7CiAgICBvdmVycmlkZSBmdW4gb25DcmVhdGUoc2F2ZWRJbnN0YW5jZVN0YXRlOiBCdW5kbGU/KSB7CiAgICAgICAgc3VwZXIub25DcmVhdGUoc2F2ZWRJbnN0YW5jZVN0YXRlKQogICAgICAgIHNldENvbnRlbnQgewogICAgICAgICAgICBDb21wb3NlQ2FtcFRoZW1lIHsKICAgICAgICAgICAgICAgIC8vIEEgc3VyZmFjZSBjb250YWluZXIgdXNpbmcgdGhlICdiYWNrZ3JvdW5kJyBjb2xvciBmcm9tIHRoZSB0aGVtZQogICAgICAgICAgICAgTXlhcHAoKQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQp9CkBDb21wb3NhYmxlCmZ1biBNeWFwcCgpewogICAgICAgIEdyZWV0aW5ncygpCiAgICB9Cn0KYGBgCgpJbiB0aGlzIHdheSwgYSBiZWF1dGlmdWwgVUkgaXMgYmVlbiBtYWRlIHVzaW5nIHRoZSBqZXRwYWNrIGNvbXBvc2UgYmVsb3cgaXMgdGhlIGltYWdlIHJlZmVyZW5jZSAKCiFbaW1hZ2UucG5nXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY2NTE0OTMyMTE1Ny9uR0Q4QW53LW4ucG5nIGFsaWduPSJsZWZ0IikKCklmIHlvdSBoYXZlIHN0dWNrIHNvbWV3aGVyZSByZWZlciB0byBiZWxvdyByZXBvc2l0b3J5IHdoaWNoIGNvbnRhaW5zIGFsbCB0aGUgc29sdXRpb24gb2YgdGhlIGdpdmVuIGFwcCBpbiBqZXRwYWNrIGNvbXBvc2UKCiVbaHR0cHM6Ly9naXRodWIuY29tL1lvdW51cy1TYWJlcmkvQ29tcG9zZUNhbXBdCgojIENvbmNsdXNpb24KPiBKZXRwYWNrIENvbXBvc2UgaXMgYSBuZXcgZGVjbGFyYXRpdmUgdG9vbGtpdCBmb3IgYnVpbGRpbmcgbmF0aXZlIEFuZHJvaWQgVUkuIEl0IHNpbXBsaWZpZXMgYW5kIGFjY2VsZXJhdGVzIFVJIGRldmVsb3BtZW50IG9uIEFuZHJvaWQuIEpldHBhY2sgQ29tcG9zZSBjYW4gdGFrZSBhZHZhbnRhZ2Ugb2YgdGhlIGV4aXN0aW5nIEFuZHJvaWQgQVBJcywgbGlicmFyaWVzLCB0b29scywgYW5kIEtvdGxpbiBsYW5ndWFnZSBmZWF0dXJlcyB0aGF0IHlvdSBhbHJlYWR5IHVzZSB0b2RheS4KCkhhcHB5IENvZGluZy4g8J+Sq/CfmoAKCgoKIVtnaXBoeS5naWZdKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjY1MTQ5NzgxMjA3LzhSNmV5eHVqRy5naWYgYWxpZ249ImxlZnQiKQoKSWYgYW55IGNoYW5nZXMgYXJlIHJlcXVpcmVkIG9yIG1pc3Rha2VzIGluIHRoZSBhYm92ZSBibG9nLCBmZWVsIGZyZWUgdG8gY29udGFjdCBbbWVdKGh0dHBzOi8vdHdpdHRlci5jb20veW91bnVzc2FiZXJpKS4K
+# Android Jetpack Compose
+
+# Introduction
+#### Jetpack Compose is a modern toolkit for building native Android UI.
+
+Android Jetpack Compose is a new declarative UI toolkit for Android. It simplifies and accelerates UI development on Android.
+
+Jetpack Compose is a modern toolkit for building native Android UI. It's built on top of our open-source HyperImage library and provides abstractions that make it easy to write highly performant, intuitive user interfaces using standard Java components and layouts, without needing any knowledge of native libraries or build processes.
+
+
+# This looks great, so how do I get started?
+
+
+![giphy (1).gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1665149884651/5kPxGeG6K.gif align="left")
+
+## Step 1. download and install Jetpack Compose
+
+Visit [here](https://developer.android.com/studio) to download android Studio
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1665146097682/jjvsVgXut.png align="left")
+
+## Step 2. install the Android Studio Kotlin plugin
+
+Later open the android Studio and add the latest plugin of Kotlin to the application
+
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1665146388604/uZXJZglmI.png align="left")
+
+## Step 3. create a new Android project
+
+Click on the New project option and select Empty Jetpack Compose Activity as shown below
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1665146548161/EiNswcNFG.png align="left")
+
+Later You can name your application as your choice and  I will be named as ComposeCamp
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1665146714430/V4mMsU0yX.png align="left")
+
+Click on Finish. Note that It can take 1-2 minutes to build all Gradle files 
+
+## Step 4. Let's get into MainActivity.kt
+
+The Kotlin file path will be 
+```
+app/src/main/java/com/example/composecamp/MainActivity.kt
+```
+You can add code to this file and start making UIs with the Jetpack Compose
+
+As you can see there is already generated kotlin code let us understand it
+
+```
+@ Composable
+private fun Greeting(name: String) {
+    Text( text = "Hello $name")
+}
+```
+Composable is a keyword to declare and initialise a compose function and it contains a Text attribute which contains "Hello $name". 
+
+
+
+```
+class MainActivity : ComponentActivity() {
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContent {
+            ComposeCampTheme {
+    
+             Greetings("Android")
+
+            }
+        }
+    }
+}
+``` 
+You can use the Preview option to see the application Ui on the go 
+Here is the code for it
+
+
+```
+@Preview(showBackground = true)
+@Composable
+fun DefaultPreview() {
+    ComposeCampThemeTheme {
+        Greeting("Android")
+    }
+}
+``` 
+with the Flowing output as below
+
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1665148075288/G7KL6XPYj.png align="left")
+
+To run and test the application you can use the AVD(Android Virtual Device) Emulator in the android studio 
+press
+>shift+F10
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1665148259311/V08WsivFP.png align="left")
+
+Select the Device on which you wanted to run the application and create an AVD emulator of it
+
+Congo!!,
+In this way, you have created a basic application in the Jetpack Compose
+
+## Step 5. start building your app
+
+Now as you get all the basic knowledge of the jetpack to compose.
+Let's get our hands dirty and learn about Jetpack compose by building a simple project
+
+Below is the repository which shows the Final project in the Jetpack compose
+
+%[https://github.com/Younus-Saberi/ComposeCamp]
+
+
+Let make an app which show the content of text in a card view
+Below is the code for it
+
+````
+@Composable
+private fun Greeting(name: String) {
+    Card(
+        backgroundColor = MaterialTheme.colors.primary,
+        modifier = Modifier.padding(vertical = 4.dp, horizontal = 8.dp)
+    ) {
+        CardContent(name)
+    }
+}
+````
+where CardConten(name) is defined in another function as mentioned below
+
+````
+@Composable
+private fun CardContent(name: String) {
+    var expanded by remember { mutableStateOf(false) }
+
+    Row(
+        modifier = Modifier
+            .padding(12.dp)
+            .animateContentSize(
+                animationSpec = spring(
+                    dampingRatio = Spring.DampingRatioMediumBouncy,
+                    stiffness = Spring.StiffnessLow
+                )
+            )
+    ) {
+        Column(
+            modifier = Modifier
+                .weight(1f)
+                .padding(12.dp)
+        ) {
+            Text(text = "Hello, ")
+            Text(
+                text = name,
+                style = MaterialTheme.typography.h4.copy(
+                    fontWeight = FontWeight.ExtraBold
+                )
+            )
+            if (expanded) {
+                Text(
+                    text = ("Composem ipsum color sit lazy, " +
+                            "padding theme elit, sed do bouncy. ").repeat(4),
+                )
+            }
+        }
+        IconButton(onClick = { expanded = !expanded }) {
+            Icon(
+                imageVector = if (expanded) Icons.Filled.ExpandLess else Icons.Filled.ExpandMore,
+                contentDescription = if (expanded) {
+                    stringResource(R.string.show_less)
+                } else {
+                    stringResource(R.string.show_more)
+                }
+
+            )
+        }
+    }
+}
+
+````
+Also the a function name greetings will be generate a string and pushing in the UI which will be implemented using *LazyCloumn *same as *RecyclerView *used in XML
+
+````
+@Composable
+private fun Greetings(names: List<String> = List(1000){"$it"}) {
+    LazyColumn(modifier = Modifier.padding(vertical = 4.dp)) {
+        items(items = names) { name ->
+            Greeting(name = name)
+        }
+    }
+}
+````
+
+At last stage all of the function are combined and used  in one of the function named as MyApp()
+Below is the code reference for it
+````
+class MainActivity : ComponentActivity() {
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContent {
+            ComposeCampTheme {
+                // A surface container using the 'background' color from the theme
+             Myapp()
+            }
+        }
+    }
+}
+@Composable
+fun Myapp(){
+        Greetings()
+    }
+}
+```
+
+In this way, a beautiful UI is been made using the jetpack compose below is the image reference 
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1665149321157/nGD8Anw-n.png align="left")
+
+If you have stuck somewhere refer to below repository which contains all the solution of the given app in jetpack compose
+
+%[https://github.com/Younus-Saberi/ComposeCamp]
+
+# Conclusion
+> Jetpack Compose is a new declarative toolkit for building native Android UI. It simplifies and accelerates UI development on Android. Jetpack Compose can take advantage of the existing Android APIs, libraries, tools, and Kotlin language features that you already use today.
+
+Happy Coding. 💫🚀
+
+
+
+![giphy.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1665149781207/8R6eyxujG.gif align="left")
+
+If any changes are required or mistakes in the above blog, feel free to contact [me](https://twitter.com/younussaberi).
