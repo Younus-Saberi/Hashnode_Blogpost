@@ -20,22 +20,20 @@ As the Event was scheduled for the 10th of Dec 2022 at venue [Google RMZ infinit
 
 The session was very informative and an introduction to the new Open Source Lightweight machine learning library JAX
 
-I have learned about JAX - A Machine Learning Framework for transforming numerical functions from [Rengaraju](https://twitter.com/URengaraju)  
-  
+I have learned about JAX - A Machine Learning Framework for transforming numerical functions from [Rengaraju](https://twitter.com/URengaraju)
+
 Google JAX is a machine learning framework for transforming numerical functions. It is described as bringing together a modified version of autographed and TensorFlow's XLA.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Google_JAX_logo.svg/1200px-Google_JAX_logo.svg.png align="center")
 
-  
-  
 The JAX is very simple and blazing fast to execute 🔥. It has been written in python and C++ which makes it easy to learn and implement on various platforms. It can overcome the existing library like NumPy and be a lightweight extension of the TensorFlow library.
 
 Hence JAX is very promising and it will be having good future for machine learning. I hope one day I can implement or use it as one of my projects 😁
 
 ## **MLOps in the Google Cloud Platform**
 
-The MLOps is rapidly increasing nowadays and during the session, I learned that there is a market gap for a good MLOps engineer. Many organization are been searching for them. The session is been taken by Joinal Ahmed  
-  
+The MLOps is rapidly increasing nowadays and during the session, I learned that there is a market gap for a good MLOps engineer. Many organization are been searching for them. The session is been taken by Joinal Ahmed
+
 Here is an image to get a clear idea about MLOps. It's quite similar to the DevOps MLOps and almost follows the same practice and culture. They work closely with DevOps folks and many of the DevOps are been switching to MLOps.
 
 ![What is MLOps? | NVIDIA Blog](https://blogs.nvidia.com/wp-content/uploads/2020/09/MLOps-Neal-Analytics.png align="left")
@@ -57,14 +55,13 @@ Some key take points
 
 # Networking:
 
-I have talked with a lot of experienced people working in the industry and gained insights into what are they expected from fresher and new graduate people. It was a great experience to connect with them.  
-  
+I have talked with a lot of experienced people working in the industry and gained insights into what are they expected from fresher and new graduate people. It was a great experience to connect with them.
+
 Here are some of the pictures from the event 📸
 
 %[https://twitter.com/younussaberi/status/1601624939320479745] 
 
-#   
-Conclusion
+# Conclusion
 
 I came to know and feel the vibe of the ecosystem on the Google Office at such an early age before going to the co-operate world and also realized how hard even I have to work for my dreams to achieve them.
 
