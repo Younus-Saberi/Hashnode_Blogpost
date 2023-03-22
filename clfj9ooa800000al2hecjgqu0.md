@@ -126,12 +126,11 @@ Keep in mind that all Linux commands are case-sensitive.
     
     For example, enter the following command to create an HTML file named **Web** in the **Documents** directory:
     
-
-```bash
-touch /home/username/Documents/Web.html
-```
-
-1. **Concatenate, or cat**  
+3. ```bash
+    touch /home/username/Documents/Web.html
+    ```
+    
+4. **Concatenate, or cat**  
     It is one of the most frequently used Linux commands. It lists, combines, and writes file content to the standard output. To run the cat command, type **cat** followed by the file name and its extension. For instance:
     
     ```bash
@@ -146,7 +145,7 @@ touch /home/username/Documents/Web.html
         
     * **tac filename.txt** displays content in reverse order.
         
-2. ### **mkdir command**
+5. ### **mkdir command**
     
     Use the **mkdir** command to create one or multiple directories at once and set permissions for each of them. The user executing this command must have the privilege to make a new folder in the parent directory, or they may receive a permission denied error.
     
@@ -185,7 +184,7 @@ touch /home/username/Documents/Web.html
     * **\-v** prints a message for each created directory.
         
     
-3. ### **rm command**
+6. ### **rm command**
     
     The **rm** command is used to delete files within a directory. Make sure that the user performing this command has write permissions.
     
@@ -212,7 +211,7 @@ touch /home/username/Documents/Web.html
     * **\-r** deletes files and directories recursively.
         
     
-4. ### **locate command**
+7. ### **locate command**
     
     The [**locate command**](https://www.hostinger.in/tutorials/how-to-use-find-and-locate-commands-in-linux/) can find a file in the database system.
     
@@ -226,7 +225,7 @@ touch /home/username/Documents/Web.html
     
     The command will search for files that contain the words **school** and **note**, whether they use uppercase or lowercase letters.
     
-5. ### **df command**
+8. ### **df command**
     
     Use the [**df command**](https://www.hostinger.in/tutorials/vps/how-to-check-and-manage-disk-space-via-terminal) to report the system’s disk space usage, shown in percentage and kilobyte (KB). Here’s the general syntax:
     
