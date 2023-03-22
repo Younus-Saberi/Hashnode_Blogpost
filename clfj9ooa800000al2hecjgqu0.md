@@ -14,13 +14,13 @@ DevOps (a clipped compound of development and operations) is a culture, movement
 
 The main goal of DevOps is to deliver applications and services faster than usual methods and improve and evolve the products at a much brisker pace than software development organizations that are still stuck with traditional infrastructure management processes.
 
-This ability to work at speed allows organizations to develop a much-needed competitive edge and at the same time, serve their customers in a better way.  
+This ability to work at speed allows organizations to develop a much-needed competitive edge and at the same time, serve their customers in a better way.
 
-### DevOps is culture and implemented in several phases with help of several tools. Below GIF explain it very well
+### DevOps is culture and implemented in several phases with help of several tools.
+
+Below is a GIF which explain DevOps very well
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1679464084638/088e3822-925a-40d9-96ab-66042b867aee.gif align="center")
-
-  
 
 To Begin our first step in DevOps, Linux will be a good choice to start off
 
