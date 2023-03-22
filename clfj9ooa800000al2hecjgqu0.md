@@ -248,7 +248,7 @@ touch /home/username/Documents/Web.html
 
 ---
 
-### **Bonus Tips and Tricks**
+# **Bonus Tips and Tricks**
 
 Here are some tips and tricks you can use to manage the Linux system:
 
