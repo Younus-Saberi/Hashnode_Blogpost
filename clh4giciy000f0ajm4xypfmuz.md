@@ -22,6 +22,16 @@ GitHub and Git are essential tools for developers to manage and maintain their c
 
 While GitHub has an easy-to-use UI, mastering Git requires some learning curve. However, once you learn Git, it can take your career to new heights. Git provides a powerful way to handle the GitHub repository and source code faster and in a reliable manner. Therefore, having a good understanding of Git and a strong GitHub profile can be incredibly beneficial for developers, regardless of their specialty, be it web development, mobile development, or cloud computing 🚀
 
+### **📍What's Git & Github?**
+
+Git: Git is a free and open-source version control system, originally created by Linus Torvalds in 2005. Git is widely used by developers all around the world to manage large and small-scale projects. Since it is an open-source project it is free to use. It helps us to keep track of every modification in our project. Git has been used by various organizations, businesses, professionals, and even startups to manage their code, task allocation, and project management.
+
+Github: GitHub is one of the most advanced development platforms in the world. It has several useful features that enable development teams to work together on the same project and easily create new versions of software without disrupting the current versions. Github is just a cloud-based hosting service that let you manage Git. There are many applications like Github like GitLab or BitBucket.
+
+### Git vs GitHub
+
+![Screenshot 2022-03-18 at 11.19.50 PM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1647625843406/jkkSSXuBm.png?auto=compress,format&format=webp align="left")
+
 # **📍Prerequisites for Practicing Git Commands**
 
 ## **1\. Basic knowledge of the command-line interface (CLI)**
